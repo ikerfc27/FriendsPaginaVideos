@@ -106,26 +106,9 @@
     height: 100%;
   }
   
-  .ms-logo1 {
-    width: 30px; /* Ajusta el tamaño según sea necesario */
-    height: 30px;
-    background-image: url('../imagenes/play-xxl.png'); /* Ruta de tu imagen */
-    background-size: cover;
-    background-position: center;
-    margin-right: 8px;
-    flex-shrink: 0;
-}
+  
 
-.ms-logo2 {
-  width: 30px; /* Ajusta el tamaño según sea necesario */
-  height: 30px;
-  background-image: url('../imagenes/imagen_2025-04-13_022630607-removebg-preview.png'); /* Ruta de tu imagen */
-  background-size: cover;
-  background-color: #fff;
-  background-position: center;
-  margin-right: 8px;
-  flex-shrink: 0;
-}
+
   
   .button-text {
     display: flex;
